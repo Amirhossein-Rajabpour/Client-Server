@@ -1,4 +1,6 @@
 # Client-Server
+Chat program written in C (multithreaded) 
+
 To compile:
 ```
 gcc -o client client.c -pthread
